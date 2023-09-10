@@ -8,3 +8,7 @@
 
 ![github merge success](https://github.com/KareemElMaaddawy/ECE444-F2023-Assignment1/assets/83250816/13341ca4-80a0-4ed2-af84-b2a53aa0773e)
 
+# Git rebase
+![git rebasing](https://github.com/KareemElMaaddawy/ECE444-F2023-Assignment1/assets/83250816/49e19b3e-7578-4e09-adcc-a4969df7b563)
+![re-ordering](https://github.com/KareemElMaaddawy/ECE444-F2023-Assignment1/assets/83250816/74b2b93f-22d6-4209-839d-724972286dd0)
+![git log](https://github.com/KareemElMaaddawy/ECE444-F2023-Assignment1/assets/83250816/594d9108-d82b-443c-823e-ab6654d253d2)
